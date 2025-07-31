@@ -5,7 +5,7 @@ A full-stack e-commerce platform built with React frontend and Node.js backend, 
 ## 🌐 Deployment
 
 ### Live Demo
-- **Frontend**: [https://e-commerce-website-4939.vercel.app/](https://e-commerce-website-4939.vercel.app/)
+- **Frontend**: [http://e-commerce-website-rose-pi.vercel.app/)
 - **Backend API**: [https://ecommerce-website-3-9ze3.onrender.com](https://ecommerce-website-3-9ze3.onrender.com)
 
 ### Vercel Deployment
