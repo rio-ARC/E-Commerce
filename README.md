@@ -195,10 +195,6 @@ Make sure to set all required environment variables in your deployment platform.
 
 This project is licensed under the ISC License.
 
-## 👨‍💻 Author
-
-**Subhajit Das**
-- GitHub: [@Subhajit-Das-1](https://github.com/Subhajit-Das-1)
 
 ## 🙏 Acknowledgments
 
